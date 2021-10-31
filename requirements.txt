@@ -4,4 +4,4 @@ gunicorn
 pandas
 sklearn
 matplotlib
-
+openpyxl
